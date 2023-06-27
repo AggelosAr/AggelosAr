@@ -2,7 +2,7 @@
 
 <h5>Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚</h5>
 
-<h5>🔧 Stack</h5>
+>🔧 Stack
 
 > - Languages: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
 > - Web: HTML/CSS (Very Basic)
