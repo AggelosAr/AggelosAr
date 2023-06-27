@@ -3,9 +3,8 @@
 ##### Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
 ---
-___
 
-***
+_________________
 
 #### 🔧 Stack
 
