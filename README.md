@@ -1,6 +1,6 @@
 
 Hi, I'm Aggelos! 👋
-<div style="font-size: 0.5em">
+<div style="font-size: 0.1em">
 Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
 🔧 Stack
