@@ -2,15 +2,15 @@ Hi, I'm Aggelos! 👋
 
 Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
-🔧 Stack
+#### 🔧 Stack
 
-&nbsp; ▹ Languages: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
+###### &nbsp; ▹ Languages: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
   
-&nbsp; ▹ Frameworks: FastAPI
+###### &nbsp; ▹ Frameworks: FastAPI
   
-&nbsp; ▹ Libraries: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
+###### &nbsp; ▹ Libraries: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
   
-&nbsp; ▹ Tools: AWS (Basic)
+###### &nbsp; ▹ Tools: AWS (Basic)
 
 🌱 Learning
 
