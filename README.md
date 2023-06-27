@@ -3,26 +3,19 @@ Hi, I'm Aggelos! 👋
 
 Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
- 🔧 Stack
-
-  - **Languages**: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
-  - **Web**: HTML/CSS (Very Basic)
-  - **Frameworks**: Django, FastAPI
-  - **Libraries**: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
-  - **Tools**: AWS (Basic)
+🔧 Stack
+ - *Languages*: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
+ - *Web*: HTML/CSS (Very Basic)
+ - *Frameworks*: Django, FastAPI
+ - *Libraries*: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
+ - *Tools*: AWS (Basic)
+  
+🌱 Learning
+ - FastAPI, Django
+ - Kubernetes, Docker
+ - C++
   
 
-
-# 🌱 Learning
-
-
-  - FastAPI, Django
-  - Kubernetes, Docker
-  - C++
-  
-
-
-# 👨‍💻 Challenges
 I 💙 coding challenges! [LeetCode](https://leetcode.com/papaggalos/)
 
 ## 💬 Get in Touch
