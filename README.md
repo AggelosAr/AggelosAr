@@ -4,15 +4,15 @@
 
 <h5>🔧 Stack</h5>
 
->>Languages: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
+> - Languages: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
 
->>Web: HTML/CSS (Very Basic)
+> - Web: HTML/CSS (Very Basic)
 
->>Frameworks: Django, FastAPI
+> - Frameworks: Django, FastAPI
 
->>Libraries: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
+> - Libraries: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
 
->>Tools: AWS (Basic)
+> - Tools: AWS (Basic)
 
 
 
