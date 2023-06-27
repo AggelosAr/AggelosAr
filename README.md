@@ -3,6 +3,7 @@ Hi, I'm Aggelos! 👋
 <h6>
 Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
+
  🔧 Stack
   - *Languages*: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
   - *Web*: HTML/CSS (Very Basic)
