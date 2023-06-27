@@ -8,22 +8,22 @@ Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
 ###### &emsp;&emsp; ▹ Languages: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
   
-###### &emsp; ▹ Frameworks: FastAPI
+###### &emsp;&emsp; ▹ Frameworks: FastAPI
   
-###### &nbsp; ▹ Libraries: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
+###### &emsp;&emsp; ▹ Libraries: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
   
-###### &nbsp; ▹ Tools: AWS (Basic)
+###### &emsp;&emsp; ▹ Tools: AWS (Basic)
 
 #### 🌱 Learning
 
-###### &nbsp; ▻ FastAPI, Django
+###### &emsp;&emsp; ▻ FastAPI, Django
   
-###### &nbsp; ▻ Kubernetes, Docker
+###### &emsp;&emsp; ▻ Kubernetes, Docker
 
-###### &nbsp; ▻ C++
+###### &emsp;&emsp; ▻ C++
 
 ---
 
-I 💙 coding challenges! <a href="https://leetcode.com/papaggalos/">LeetCode</a>
+<p>I 💙 coding challenges! <a href="https://leetcode.com/papaggalos/">LeetCode</a></p>
 
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
