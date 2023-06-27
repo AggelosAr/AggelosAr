@@ -1,6 +1,6 @@
 
 Hi, I'm Aggelos! 👋
-
+<small>
 Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
 🔧 Stack
@@ -18,3 +18,4 @@ Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 I 💙 coding challenges! [LeetCode](https://leetcode.com/papaggalos/)
 
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
+</small>
