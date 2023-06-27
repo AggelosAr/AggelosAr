@@ -1,30 +1,33 @@
-# Hi, I'm Aggelos!
 
-I'm a software engineer with a passion for problem-solving and learning new technologies. Here's a bit about what I'm up to:
+# Hi, I'm Aggelos! 👋
 
-## 🔧 Technologies & Tools
-- **Languages**: 
-    - Python (Good!)
-    - C++ (Basic)
-    - Java (Basic)
-    - R (Exposure)
-    - Prolog (Exposure)
-    - SQL (Basics)
-- **Web Technologies**: HTML (Very Basic), CSS (Very Basic)
-- **Frameworks**: Django, FastAPI
-- **Libraries**: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
-- **Tools & Platforms**: AWS (Basic Knowledge)
+Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
-## 🌱 Learning & Development
-I'm currently focused on learning and improving my skills in:
-- FastAPI
-- Django
-- Kubernetes
-- Docker
-- C++
+## 🔧 Tech Stack
+<details>
+  <summary>Click to expand!</summary>
+
+  - **Languages**: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
+  - **Web**: HTML/CSS (Very Basic)
+  - **Frameworks**: Django, FastAPI
+  - **Libraries**: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
+  - **Tools**: AWS (Basic)
   
-## 👨‍💻 Coding Challenges
-I love to solve coding challenges! Check out my [LeetCode Profile](https://leetcode.com/papaggalos/)!
+</details>
+
+## 🌱 Learning
+<details>
+  <summary>Click to expand!</summary>
+
+  - FastAPI, Django
+  - Kubernetes, Docker
+  - C++
+  
+</details>
+
+## 👨‍💻 Challenges
+I 💙 coding challenges! [LeetCode](https://leetcode.com/papaggalos/)
 
 ## 💬 Get in Touch
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
+
