@@ -1,6 +1,6 @@
-#### Hi, I'm Aggelos! 👋
+##### Hi, I'm Aggelos! 👋
 
-#### Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
+##### Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
 ---
 
@@ -23,6 +23,6 @@
 
 ---
 
-#### I 💙 coding challenges! <a href="https://leetcode.com/papaggalos/">LeetCode</a>
+##### I 💙 coding challenges! <a href="https://leetcode.com/papaggalos/">LeetCode</a>
 
-#### Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
+##### Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
