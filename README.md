@@ -5,8 +5,6 @@ Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
  🔧 Stack
 
-
-
   - **Languages**: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
   - **Web**: HTML/CSS (Very Basic)
   - **Frameworks**: Django, FastAPI
@@ -15,17 +13,16 @@ Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
   
 
 
-## 🌱 Learning
-<details>
-  <summary>Click to expand!</summary>
+# 🌱 Learning
+
 
   - FastAPI, Django
   - Kubernetes, Docker
   - C++
   
-</details>
 
-## 👨‍💻 Challenges
+
+# 👨‍💻 Challenges
 I 💙 coding challenges! [LeetCode](https://leetcode.com/papaggalos/)
 
 ## 💬 Get in Touch
