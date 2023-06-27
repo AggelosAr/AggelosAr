@@ -4,11 +4,11 @@ I'm a software engineer with a passion for problem-solving and learning new tech
 
 ## 🔧 Technologies & Tools
 - **Languages**: 
-    - Python (Good!),
-    - C++ (Basic),
-    - Java (Basic), 
-    - R (Exposure), 
-    - Prolog (Exposure),
+    - Python (Good!)
+    - C++ (Basic)
+    - Java (Basic)
+    - R (Exposure)
+    - Prolog (Exposure)
     - SQL (Basics)
 - **Web Technologies**: HTML (Very Basic), CSS (Very Basic)
 - **Frameworks**: Django, FastAPI
