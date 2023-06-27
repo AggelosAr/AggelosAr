@@ -23,9 +23,6 @@ I'm currently focused on learning and improving my skills in:
 - Docker
 - C++
   
-## 🤝 Contributing to Open Source
-I am passionate about giving back to the community and I'm looking for opportunities to contribute to open source projects. If you know of any projects that could use a helping hand, feel free to reach out!
-
 ## 👨‍💻 Coding Challenges
 I love to solve coding challenges! Check out my [LeetCode Profile](https://leetcode.com/papaggalos/)!
 
