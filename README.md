@@ -4,12 +4,12 @@
 
 ---
 
-#### 🔧 Stack
+🔧 Stack
 
-###### &emsp;&emsp; ▹ Languages: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
-###### &emsp;&emsp; ▹ Frameworks: FastAPI
-###### &emsp;&emsp; ▹ Libraries: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
-###### &emsp;&emsp; ▹ Tools: AWS (Basic)
+   ▹ Languages: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
+   ▹ Frameworks: FastAPI
+   ▹ Libraries: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
+   ▹ Tools: AWS (Basic)
 
 #### 🌱 Learning
 
