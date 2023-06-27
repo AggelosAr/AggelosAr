@@ -2,23 +2,22 @@
 
 ##### Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
-# 
+# ---
 
 #### 🔧 Stack
-
 &emsp;&emsp;▹ Languages: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
 
 &emsp;&emsp;▹ Libraries: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
 
 &emsp;&emsp;▹ Tools: AWS (Basic)
 &emsp;&emsp;▹ Frameworks: FastAPI
-
+# 
 #### 🌱 Learning
 &emsp;&emsp;▻ FastAPI, Django
 &emsp;&emsp;▻ Kubernetes, Docker
 &emsp;&emsp;▻ C++
 
----
+# 
 
 ##### I 💙 coding challenges! <a href="https://leetcode.com/papaggalos/">LeetCode</a>
 
