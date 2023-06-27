@@ -2,14 +2,14 @@
 
 <h5>Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚</h5>
 
-<h5>🔧 Stack
+<h5>🔧 Stack</h5>
 
-* *Languages*: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
+* <h5>*Languages*: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)</h5>
 * *Web*: HTML/CSS (Very Basic)
 * *Frameworks*: Django, FastAPI
 * *Libraries*: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
 * *Tools*: AWS (Basic)
-</h5>
+
 <h5>🌱 Learning</h5>
 
 - FastAPI, Django
