@@ -7,8 +7,11 @@
 🔧 Stack
 
    ▹ Languages: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
+   
    ▹ Frameworks: FastAPI
+   
    ▹ Libraries: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
+   
    ▹ Tools: AWS (Basic)
 
 #### 🌱 Learning
