@@ -13,9 +13,12 @@ Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 ▹ Tools: AWS (Basic)
 
 🌱 Learning
-- FastAPI, Django
-- Kubernetes, Docker
-- C++
+
+▻ FastAPI, Django
+
+▻ Kubernetes, Docker
+
+▻ C++
 
 
 I 💙 coding challenges! <a href="https://leetcode.com/papaggalos/">LeetCode</a>
