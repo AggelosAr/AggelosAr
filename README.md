@@ -17,6 +17,7 @@ Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 &nbsp; ▻ FastAPI, Django
   
 &nbsp; ▻ Kubernetes, Docker
+
 &nbsp; ▻ C++
 
 
