@@ -3,7 +3,6 @@
 <h5>Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚</h5>
 
 <h5>🔧 Stack</h5>
-
 - *Languages*: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
 - *Web*: HTML/CSS (Very Basic)
 - *Frameworks*: Django, FastAPI
@@ -11,11 +10,9 @@
 - *Tools*: AWS (Basic)
 
 <h5>🌱 Learning</h5>
-
 - FastAPI, Django
 - Kubernetes, Docker
 - C++</h5>
-
 
 <h4>I 💙 coding challenges! <a href="https://leetcode.com/papaggalos/">LeetCode</a></h4>
 
