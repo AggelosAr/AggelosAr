@@ -4,11 +4,13 @@
 
 <h5>🔧 Stack</h5>
 
-- *Languages*: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
-- *Web*: HTML/CSS (Very Basic)
-- *Frameworks*: Django, FastAPI
-- *Libraries*: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
-- *Tools*: AWS (Basic)
+<ul style="font-size: 12px;">
+  <li><em>Languages</em>: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)</li>
+  <li><em>Web</em>: HTML/CSS (Very Basic)</li>
+  <li><em>Frameworks</em>: Django, FastAPI</li>
+  <li><em>Libraries</em>: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter</li>
+  <li><em>Tools</em>: AWS (Basic)</li>
+</ul>
 
 <h5>🌱 Learning</h5>
 
