@@ -10,6 +10,12 @@
 - Libraries: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
 - Tools: AWS (Basic)
 
+
+Copy code<p class="small-text">This text will be smaller</p> 
+ 
+Copy code.small-text { 
+    font-size: 80%; 
+} 
 <h5>🌱 Learning</h5>
 
 - FastAPI, Django
