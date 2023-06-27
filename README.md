@@ -15,9 +15,6 @@ Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
  - Kubernetes, Docker
  - C++
   
-
 I 💙 coding challenges! [LeetCode](https://leetcode.com/papaggalos/)
 
-## 💬 Get in Touch
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
-
