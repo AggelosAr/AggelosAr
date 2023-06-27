@@ -2,8 +2,9 @@
 
 <h6>Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚</h6>
 
-<p>
+
 <h5>🔧 Stack
+
 
 - *Languages*: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
 - *Web*: HTML/CSS (Very Basic)
@@ -17,7 +18,7 @@
 - Kubernetes, Docker
 - C++
 </h5>
-</p>
+
 
 <p>I 💙 coding challenges! <a href="https://leetcode.com/papaggalos/">LeetCode</a></p>
 
