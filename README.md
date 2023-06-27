@@ -6,13 +6,13 @@ Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
 #### 🔧 Stack
 
-###### &nbsp;&nbsp; ▹ Languages: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
+###### &nbsp;&nbsp;&nbsp; ▹ Languages: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
   
-###### &nbsp;&nbsp; ▹ Frameworks: FastAPI
+###### &nbsp; ▹ Frameworks: FastAPI
   
-###### &nbsp;&nbsp; ▹ Libraries: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
+###### &nbsp; ▹ Libraries: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
   
-###### &nbsp;&nbsp; ▹ Tools: AWS (Basic)
+###### &nbsp; ▹ Tools: AWS (Basic)
 
 #### 🌱 Learning
 
