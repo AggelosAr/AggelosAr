@@ -6,7 +6,7 @@ Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
 #### 🔧 Stack
 
-###### &thinsp; ▹ Languages: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
+###### &#09 ▹ Languages: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
   
 ###### &nbsp; ▹ Frameworks: FastAPI
   
