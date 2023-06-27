@@ -1,5 +1,5 @@
 
-# Hi, I'm Aggelos! 👋
+Hi, I'm Aggelos! 👋
 
 Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
