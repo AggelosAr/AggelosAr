@@ -5,7 +5,7 @@ Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
  🔧 Stack
 
-  <summary>Click to expand!</summary>
+
 
   - **Languages**: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
   - **Web**: HTML/CSS (Very Basic)
