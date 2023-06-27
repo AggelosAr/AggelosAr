@@ -14,7 +14,7 @@
 
 - FastAPI, Django
 - Kubernetes, Docker
-- C++</h5>
+- C++
 
 <h4>I 💙 coding challenges! <a href="https://leetcode.com/papaggalos/">LeetCode</a></h4>
 
