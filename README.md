@@ -1,8 +1,8 @@
-<h1>Hi, I'm Aggelos! 👋</h1>
+<h3>Hi, I'm Aggelos! 👋</h3>
 
-<h4>Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚</h4>
+<h6>Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚</h6>
 
-<h3>🔧 Stack</h3>
+<h5>🔧 Stack</h5>
 
 - *Languages*: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
 - *Web*: HTML/CSS (Very Basic)
@@ -10,7 +10,7 @@
 - *Libraries*: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
 - *Tools*: AWS (Basic)
 
-<h3>🌱 Learning</h3>
+<h5>🌱 Learning</h5>
 
 - FastAPI, Django
 - Kubernetes, Docker
