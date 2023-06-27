@@ -2,6 +2,8 @@ Hi, I'm Aggelos! 👋
 
 Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
+---
+
 #### 🔧 Stack
 
 ###### &nbsp; ▹ Languages: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
@@ -12,14 +14,15 @@ Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
   
 ###### &nbsp; ▹ Tools: AWS (Basic)
 
-🌱 Learning
+#### 🌱 Learning
 
-&nbsp; ▻ FastAPI, Django
+###### &nbsp; ▻ FastAPI, Django
   
-&nbsp; ▻ Kubernetes, Docker
+###### &nbsp; ▻ Kubernetes, Docker
 
-&nbsp; ▻ C++
+###### &nbsp; ▻ C++
 
+---
 
 I 💙 coding challenges! <a href="https://leetcode.com/papaggalos/">LeetCode</a>
 
