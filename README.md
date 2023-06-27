@@ -12,7 +12,7 @@ Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
   
 &nbsp; ▹ Tools: AWS (Basic)
 
-### 🌱 Learning
+🌱 Learning
 
 &nbsp; ▻ FastAPI, Django
   
