@@ -3,7 +3,7 @@ Hi, I'm Aggelos! 👋
 
 Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
-## 🔧 Tech Stack
+ 🔧 Stack
 <details>
   <summary>Click to expand!</summary>
 
