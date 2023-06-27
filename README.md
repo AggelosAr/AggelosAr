@@ -4,7 +4,7 @@
 
 <h5>🔧 Stack</h5>
 
-<ul style="font-size: 6px;">
+<ul style="font-size: 1px;">
   <li><em>Languages</em>: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)</li>
   <li><em>Web</em>: HTML/CSS (Very Basic)</li>
   <li><em>Frameworks</em>: Django, FastAPI</li>
