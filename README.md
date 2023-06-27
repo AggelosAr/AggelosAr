@@ -1,6 +1,6 @@
 
 Hi, I'm Aggelos! 👋
-<div style="font-size: 0.1em">
+<h4>
 Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
 🔧 Stack
@@ -18,4 +18,4 @@ Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 I 💙 coding challenges! [LeetCode](https://leetcode.com/papaggalos/)
 
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
-</div>
+</h4>
