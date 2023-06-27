@@ -4,7 +4,7 @@ Hi, I'm Aggelos! 👋
 Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
  🔧 Stack
-<details>
+
   <summary>Click to expand!</summary>
 
   - **Languages**: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
@@ -13,7 +13,7 @@ Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
   - **Libraries**: TensorFlow, Pydantic, Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib, Tkinter
   - **Tools**: AWS (Basic)
   
-</details>
+
 
 ## 🌱 Learning
 <details>
