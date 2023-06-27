@@ -1,6 +1,6 @@
-<h4>Hi, I'm Aggelos! 👋</h4>
+Hi, I'm Aggelos! 👋
 
-<h5>Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚</h5>
+Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 
 🔧 Stack
 
