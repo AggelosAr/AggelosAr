@@ -13,9 +13,9 @@
 
 #### 🌱 Learning
 
-###### &emsp;&emsp; ▻ FastAPI, Django
-###### &emsp;&emsp; ▻ Kubernetes, Docker
-###### &emsp;&emsp; ▻ C++
+ -  ▻ FastAPI, Django
+ -  ▻ Kubernetes, Docker
+ -  ▻ C++
 
 ---
 
