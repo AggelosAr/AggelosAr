@@ -14,5 +14,5 @@
 &emsp;&emsp;▻ Kubernetes, Docker
 &emsp;&emsp;▻ C++
 #
-##### I 💙 coding challenges! <a href="https://leetcode.com/papaggalos/">LeetCode</a>
+
 ##### Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
