@@ -12,7 +12,7 @@
 #### 🌱 Learning
 &emsp;&emsp;▻ FastAPI, Django
 &emsp;&emsp;▻ Kubernetes, Docker
-&emsp;&emsp;▻ JS
+&emsp;&emsp;▻ JS, TS, React
 #
 
 ##### Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
