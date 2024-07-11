@@ -1,3 +1,4 @@
+✨ **Greetings, fellow code artisan!** ✨
 ##### Hi, I'm [Aggelos!](https://arelakis.info/) 👋 
 ##### Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 #
@@ -16,7 +17,7 @@
 #
 
 ##### Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
-[![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20My%20Profile-orange)](https://leetcode.com/your-profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20My%20Profile-orange)]([https://leetcode.com/your-profile](https://leetcode.com/u/papaggalos/))
 
 ### Fancy Message
 
