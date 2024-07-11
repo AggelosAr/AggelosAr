@@ -17,7 +17,7 @@
 #
 
 ##### Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
-[![LeetCode](https://img.shields.io/badge/LeetCode-Visit%20My%20Profile-orange)](https://leetcode.com/u/papaggalos/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Visitorange)](https://leetcode.com/u/papaggalos/)
 
 ### Fancy Message
 
