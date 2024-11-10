@@ -1,6 +1,6 @@
 <!-- 🌟 Hello there, welcome to my repository! 🌟 -->
 ##### Hi, I'm [Aggelos!](https://arelakis.info/) 👋 
-Despite being a goldfish with Alzheimer's (or so I've been told!), I'm passionate about software engineering and enjoy tackling new challenges. Join me on this quirky journey through the world of code!
+
 
 Feel free to explore my projects and join me in discovering new possibilities!
 
