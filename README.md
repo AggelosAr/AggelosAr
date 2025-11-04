@@ -15,9 +15,8 @@ Feel free to explore my projects and join me in discovering new possibilities!
 &emsp;&emsp;▹ Frameworks: TensorFlow, Keras, FastAPI, Pydantic, Tkinter
 # 
 #### 🌱 Learning
-&emsp;&emsp;▻ FastAPI, Django
-&emsp;&emsp;▻ Kubernetes, Docker
-&emsp;&emsp;▻ JS, TS, React, Go
+&emsp;&emsp;▻ Django
+&emsp;&emsp;▻ Rust
 #
 
 ##### Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
