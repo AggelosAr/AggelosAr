@@ -7,7 +7,7 @@ Feel free to explore my projects and join me in discovering new possibilities!
 ##### Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
 #
 #### 🔧 Stack
-&emsp;&emsp;▹ Languages: Python 🐍 (Good), C++/Java/R/Prolog/SQL (Basics)
+&emsp;&emsp;▹ Languages: Python 🐍
 
 &emsp;&emsp;▹ Libraries: Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib
 
@@ -15,7 +15,8 @@ Feel free to explore my projects and join me in discovering new possibilities!
 &emsp;&emsp;▹ Frameworks: TensorFlow, Keras, FastAPI, Pydantic, Tkinter
 # 
 #### 🌱 Learning
-&emsp;&emsp;▻ Django
+&emsp;&emsp;▻ Python
+&emsp;&emsp;▻ Elixir
 &emsp;&emsp;▻ Rust
 #
 
