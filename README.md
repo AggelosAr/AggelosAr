@@ -2,27 +2,7 @@
 ##### Hi, I'm [Aggelos!](https://arelakis.info/) 👋 
 
 
-Feel free to explore my projects and join me in discovering new possibilities!
-
 ##### Software Engineer 🖥️ | Problem Solver 🧩 | Lifelong Learner 📚
-#
-#### 🔧 Stack
-&emsp;&emsp;▹ Languages: Python 🐍
-
-&emsp;&emsp;▹ Libraries: Requests, BeautifulSoup, Scikit-learn, Pandas, NumPy, Matplotlib
-
-&emsp;&emsp;▹ Tools: AWS (Basic)
-&emsp;&emsp;▹ Frameworks: TensorFlow, Keras, FastAPI, Pydantic, Tkinter
-# 
-#### 🌱 Learning
-&emsp;&emsp;▻ Python
-&emsp;&emsp;▻ Elixir
-&emsp;&emsp;▻ Rust
-#
 
 ##### Feel free to reach out to me if you have any questions or if you're interested in collaborating on a project.
 [![LeetCode](https://img.shields.io/badge/LeetCode-Visitorange)](https://leetcode.com/u/papaggalos/)
-
-### Fancy Message
-
-🚀 **Embark on a journey through the world of coding challenges with me! Check out my [LeetCode profile](https://leetcode.com/u/papaggalos/) to see my progress and solutions. Let's conquer the coding world together!** 🌟
