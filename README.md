@@ -29,17 +29,14 @@ I enjoy solving practical engineering problems, exploring new technologies, and 
 
 ##### 🌐 Find Me Online
 
-| Platform | Link |
-|:---|:---|
-| 🌍 Portfolio | [arelakis.xyz](https://arelakis.xyz) |
-| 💼 LinkedIn | [Aggelos Arelakis](https://www.linkedin.com/in/aggelosarelakis/) |
-| 💻 GitHub | [AggelosAr](https://github.com/AggelosAr) |
-| 🧩 LeetCode | [papaggalos](https://leetcode.com/u/papaggalos/) |
-
-##### 💬 Let's Connect!
-
-Feel free to reach out if you have questions, interesting ideas, or would like to collaborate on a project.
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arelakis.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aggelosarelakis/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AggelosAr)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/papaggalos/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Visit-orange?logo=leetcode)](https://leetcode.com/u/papaggalos/)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Visitorange)](https://leetcode.com/u/papaggalos/)
+##### 💬 Let's Connect!
+Feel free to reach out if you have questions, interesting ideas, or would like to collaborate on a project.
+
+
+
